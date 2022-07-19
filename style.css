@@ -1,6 +1,17 @@
-.bg-info
+.header-image
 {
     background: url('img/background.jpg');
     background-size: 100% auto;
+    background-repeat: no-repeat;
+    height: 100%;
+}
 
+#page
+{
+    height: 100vh;
+
+}
+
+body{
+    color:white;
 }
