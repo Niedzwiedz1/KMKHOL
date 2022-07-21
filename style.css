@@ -17,6 +17,7 @@
 {
     color: rgba(55, 55, 27, 1);
     font-family: 'Montserrat', "Songti TC";
+    font-weight: 600;
 }
 
 body
@@ -29,11 +30,13 @@ body
 {
     font-size: 20px;
     align-items: center;
+    font-family: 'Roboto Slab', serif;
 }
 
 .topbar
 {
     background-color: rgba(242, 203, 5, 1);
+    font-family: 'Roboto Slab', serif;
 }
 
 .midbar1
@@ -66,8 +69,9 @@ body
 .iconopis
 {
     text-align: center;
-    font-size: 10px;
+    font-size: 11px;
     padding: 10px;
+    font-family: 'Montserrat', "Songti TC";
 }
 .footer
 {
@@ -86,6 +90,7 @@ body
 {
     font-size: 30px;
     margin-top: 10px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .bankicon
@@ -96,6 +101,7 @@ body
 .bankdetails
 {
     font-size: 20px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .topbarenvelope
@@ -109,6 +115,7 @@ body
 
 .content {
     margin-top: 12rem!important;
+    font-family: 'Roboto Slab', serif;
 }
 
 .zadzwon
@@ -116,8 +123,23 @@ body
     margin-bottom: 6.5rem!important;
     background-color: rgba(242, 203, 5, 1);
     border: none;
+    font-family: 'Roboto Slab', serif;
 }
 .cechyicons
 {
     font-size: 30px;
+}
+
+.opinie
+{
+    font-family: 'Montserrat', "Songti TC";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.opinietresc
+{
+    font-family: 'Montserrat', "Songti TC" ;
+    font-weight: 200;
+    font-size: 15px;
 }
