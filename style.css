@@ -4,6 +4,7 @@
     background-size: 100% auto;
     background-repeat: no-repeat;
     /*height: 100%;*/
+
 }
 
 #page
@@ -27,6 +28,7 @@ body
 .navbartop
 {
     font-size: 20px;
+    align-items: center;
 }
 
 .topbar
@@ -108,4 +110,6 @@ body
 .zadzwon
 {
     margin-bottom: 11.5rem!important;
+    background-color: rgba(242, 203, 5, 1);
+    border: none;
 }
