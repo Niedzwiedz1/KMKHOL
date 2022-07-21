@@ -15,11 +15,18 @@
 body
 {
     color: white;
+    background-color: rgba(248, 249, 249, 1);
+}
+
+.midbar1
+{
+    color: black;
+    background-color: rgba(248, 249, 249, 1);
 }
 
 .midbar
 {
-    color: black;
+    background-color: ;
 }
 
 .mbank
@@ -49,3 +56,22 @@ body
     text-align: center;
 }
 
+.cechy1
+{
+    background-color: white;
+}
+
+.midbarphone
+{
+    font-size: 30px;
+}
+
+.bankicon
+{
+    font-size: 40px;
+}
+
+.bankdetails
+{
+    font-size: 20px;
+}
