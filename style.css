@@ -3,7 +3,7 @@
     background: url('img/kmkphoto.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
-    height: 100%;
+    /*height: 100%;*/
 }
 
 #page
@@ -99,4 +99,13 @@ body
 .topbarphone
 {
     color: rgba(55, 55, 27, 1);
+}
+
+.content {
+    margin-top: 12rem!important;
+}
+
+.zadzwon
+{
+    margin-bottom: 11.5rem!important;
 }
