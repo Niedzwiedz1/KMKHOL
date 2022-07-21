@@ -55,6 +55,7 @@ body
 .cechy
 {
     color: black;
+    margin-top: 5rem!important;
 
 }
 
@@ -115,4 +116,8 @@ body
     margin-bottom: 6.5rem!important;
     background-color: rgba(242, 203, 5, 1);
     border: none;
+}
+.cechyicons
+{
+    font-size: 30px;
 }
