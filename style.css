@@ -44,7 +44,7 @@ body
 
 .midbar
 {
-    background-color: ;
+    box-shadow: 0 0 20px #ccc;
 }
 
 .mbank
@@ -84,6 +84,7 @@ body
 .midbarphone
 {
     font-size: 30px;
+    margin-top: 10px;
 }
 
 .bankicon
