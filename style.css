@@ -15,12 +15,18 @@
 .logo
 {
     color: rgba(55, 55, 27, 1);
+    font-family: 'Montserrat', "Songti TC";
 }
 
 body
 {
     color: white;
     background-color: rgba(248, 249, 249, 1);
+}
+
+.navbartop
+{
+    font-size: 20px;
 }
 
 .topbar
