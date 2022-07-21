@@ -12,11 +12,17 @@
 
 }
 
+.logo
+{
+    color: rgba(55, 55, 27, 1);
+}
+
 body
 {
     color: white;
     background-color: rgba(248, 249, 249, 1);
 }
+
 
 .midbar1
 {
