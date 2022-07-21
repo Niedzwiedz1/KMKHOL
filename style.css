@@ -77,6 +77,8 @@ body
 .cechy1
 {
     background-color: white;
+    box-shadow: 0 0 20px #ccc;
+    align-items: center;
 }
 
 .midbarphone
@@ -109,7 +111,7 @@ body
 
 .zadzwon
 {
-    margin-bottom: 11.5rem!important;
+    margin-bottom: 6.5rem!important;
     background-color: rgba(242, 203, 5, 1);
     border: none;
 }
