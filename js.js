@@ -1,8 +1,12 @@
 
-$(document).ready(function (){
-console.log('dupa');
-    $("#onas").click(function() {
-        $("#opinie").scrollIntoView( {behavior: "smooth" })
-    })
 
-});
+    $(document).ready(function (){
+        $("#onas").click(function (){
+            $('html, body').animate({
+                scrollTop: $("#opinie").offset().top
+            }, 2000);
+        });
+
+
+    });
+
